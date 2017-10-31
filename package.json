@@ -1,0 +1,27 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Tryin to create this Liri app. It will be successful",
+  "main": "liri.js",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "liri test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atendolk/liri-node-app.git"
+  },
+  "keywords": [
+    "liri"
+  ],
+  "author": "Anish P Tendolkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atendolk/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/atendolk/liri-node-app#readme"
+}
